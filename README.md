@@ -15,11 +15,11 @@ General Features
 - Create game types (exhibition, regular season, tournament, playoff) for use with Win/Loss module.
 - Configurable stat categories (turn on/off Pitching Stats and Fielding Stats, also config options for using Steals/Caught Stealing, and Sacrifices).
 - Ability to select registered users for FRONT-END admin access. Front-end admins can manage their rosters, schedules and enter game results without needing to login to the Joomla admin.
-- Ability to easily create menu links for Roster, Schedule, Stats, League/Division standings, as well as an “All Teams” w/built-in navigation links.
+- Ability to easily create menu links for Roster, Schedule, Stats, League/Division standings, as well as an "All Teams" w/built-in navigation links.
 - Component and modules compatible with Joomla SEF-friendly URLS.
 - Configurable schedule pages. Show full league, specific division or specific teams.
 - Printer-friendly and ICAL buttons added to schedule views. Import to calendar programs such as Google Calendar.
-- Player “Clone” feature allows a player to be on more than one team roster at a time (for all-star teams and other uses).
+- Player "Clone" feature allows a player to be on more than one team roster at a time (for all-star teams and other uses).
 - Boxscore plugin allows you to conveniently add boxscore information to an article.
 
 Front-End Features
